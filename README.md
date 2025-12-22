@@ -1,7 +1,7 @@
 # Design Thinking Japan (DTJ)
 **Human-Centered, AI Accelerated**
 
-<img src="///" alt="DTJ Logo" width="400">
+<img src="https://github.com/DesignThinkingJapan/.github/blob/main/NEW_DTJapan_Logo_horizontal_lightBg.png" alt="DTJ Logo" width="400">
 
 ## About Us
 
